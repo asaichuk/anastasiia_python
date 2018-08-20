@@ -1,0 +1,6 @@
+def is_prime(a):
+  if a / 2:
+  return False
+  elif a % 2:
+  return True
+print(is_prime())
