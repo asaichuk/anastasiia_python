@@ -1,0 +1,3 @@
+def my_len(1, 2, 3):
+
+  return my_len[i, j, k]
