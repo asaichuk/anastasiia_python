@@ -1,0 +1,4 @@
+def is_prime(a):
+ for i in range(a):
+  if is_prime([1, 10]):
+  print(is_prime(5))
